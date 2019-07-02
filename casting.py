@@ -1,0 +1,10 @@
+#Casting
+x=int(2.8)
+y=float(4)
+z=str(33)
+print(type(x))
+print(x)
+print(type(y))
+print(y)
+print(type(z))
+print(z)
